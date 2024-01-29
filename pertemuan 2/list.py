@@ -1,8 +1,8 @@
-mapel =["matematika" ,"ddj" ,"olahraga" ,"jepang"]
-print("hari ini kita belajar mapel",mapel[1])
-mapel.apped = ("english")
-print("tambah mabel =",mapel)
+mapel = ["matematika", "DDJ", "olahraga", "jepang"]
+print("Hari ini kita belajar mapel", mapel[1])
+mapel.append("English")
+print("Tambah mapel =", mapel)
 del mapel[2]
-print("hapus olahraga = ",mapel)
+print("Hapus olahraga = ", mapel)
 mapel[0] = "informatika"
-print("update =",mapel)
+print("update =", mapel)
